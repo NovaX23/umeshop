@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/umeshop/static/css/main.073c9b0a.css",
+    "main.js": "/umeshop/static/js/main.beb101c2.js",
+    "static/js/787.a2f8e822.chunk.js": "/umeshop/static/js/787.a2f8e822.chunk.js",
+    "static/media/logo.svg": "/umeshop/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/umeshop/index.html",
+    "main.073c9b0a.css.map": "/umeshop/static/css/main.073c9b0a.css.map",
+    "main.beb101c2.js.map": "/umeshop/static/js/main.beb101c2.js.map",
+    "787.a2f8e822.chunk.js.map": "/umeshop/static/js/787.a2f8e822.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.beb101c2.js"
+  ]
+}
